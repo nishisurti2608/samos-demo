@@ -18,7 +18,7 @@ const Faq = () => {
       </section>
       <div className="mt-8 flex flex-wrap justify-center gap-4">
         <a
-          className="block w-full rounded border border-green-400 px-12 py-3 text-sm font-medium text-white hover:border-violet-900 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
+          className="text-center block w-full rounded border border-green-400 px-12 py-3 text-sm font-medium text-white hover:border-violet-900 focus:outline-none focus:ring active:bg-blue-500 sm:w-auto"
           href="/about"
         >
           Know More
